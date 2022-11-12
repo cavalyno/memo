@@ -13,4 +13,8 @@ CTRL + O : Permet de sauvegarder votre fichier
 CTRL + X : Permet de quitter nano
 CTRL + G : Affiche l'aide
 
-Autre truc important à savoir-faire, ce sont les copier / couper / coller sous nano.Pour ce faire, placez-vous devant la ligne à copier, puis faites CTRL + K pour la couper, suivi d'un CTRL + U pour la coller. Maintenant que cette ligne est en mémoire, vous pouvez aller la coller ailleurs.Autrement, si vous voulez sélectionner plusieurs lignes, faites un CTRL + ^ et déplacez les flèches du clavier pour surligner le texte qui vous intéresse. Ensuite un petit CTRL + K, CTRL + U et vous pourrez recopier ce passage ailleurs avec un autre CTRL + U.
+Autre truc important à savoir-faire, ce sont les copier / couper / coller sous nano.
+Pour ce faire, placez-vous devant la ligne à copier, puis faites CTRL + K pour la couper, suivi d'un CTRL + U pour la coller.
+Maintenant que cette ligne est en mémoire, vous pouvez aller la coller ailleurs.
+Autrement, si vous voulez sélectionner plusieurs lignes, faites un CTRL + ^ et déplacez les flèches du clavier pour surligner le texte qui vous intéresse.
+Ensuite un petit CTRL + K, CTRL + U et vous pourrez recopier ce passage ailleurs avec un autre CTRL + U.
